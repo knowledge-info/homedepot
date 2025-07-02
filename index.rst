@@ -4,7 +4,7 @@ Login to Home Depot Credit Card Account – MyCard Portal Access
 
 .. image:: get.jpg
    :alt: homedepot.com/mycard
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9ob21lZGVwb3RoZWxwbmV0LnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 Managing your credit card should be simple, secure, and accessible from anywhere—and that’s exactly what the Home Depot MyCard portal offers. Whether you’re a homeowner handling renovation expenses or a business managing job-site purchases, the `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ portal is your go-to tool for account access and financial control.
 
@@ -85,17 +85,4 @@ Although Home Depot doesn’t have a dedicated credit card app, you can:
 - Use the **Citi Mobile App** for full credit card management features
 - Check your Home Depot card info through the **Home Depot app**
 
-Common Login Problems & Solutions
----------------------------------
-
-+----------------------------------+------------------------------------------------------------+
-| **Problem**                      | **Solution**                                               |
-+==================================+============================================================+
-| Forgot User ID or Password       | Use the reset links on the login page                      |
-+----------------------------------+------------------------------------------------------------+
-| Login Page Not Loading           | Clear browser cache or use a different browser             |
-+----------------------------------+------------------------------------------------------------+
-| Locked Account                   | Wait 24 hours or call support at 1-800-677-0232            |
-+----------------------------------+------------------------------------------------------------+
-| Verification Code Not Received  | Check spam folder or verify email/phone info is up-to-date |
 +----------------------------------+------------------------------------------------------------+
