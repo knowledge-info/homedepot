@@ -4,7 +4,7 @@ Login to Home Depot Credit Card Account – MyCard Portal Access
 
 .. image:: get.jpg
    :alt: homedepot.com/mycard
-   :target: https://homedepotcommycard.jimdosite.com/
+   :target: https://pre.im/?CqqyiIcugtWkVpTQL2XInEKndIpDNgv36QOoojreKFTTTjhDvDWOsUQMQNXw8Gn97c
 
 Managing your credit card should be simple, secure, and accessible from anywhere—and that’s exactly what the Home Depot MyCard portal offers. Whether you’re a homeowner handling renovation expenses or a business managing job-site purchases, the `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ portal is your go-to tool for account access and financial control.
 
